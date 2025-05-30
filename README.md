@@ -24,7 +24,7 @@ Esse tipo de análise pode ajudar empresas a entender melhor seu desempenho de v
 
 Esse projeto marca o começo da minha jornada na área de **análise de dados**, uma área que vem despertando muito meu interesse dentro da Ciência da Computação.
 
-Resumo das Observações da Análise de Vendas Online Retail
+## Resumo das Observações da Análise de Vendas Online Retail
 
 Este estudo exploratório do conjunto de dados "Online Retail" revelou diversos insights sobre o comportamento de vendas da empresa após um processo de limpeza de dados e engenharia de atributos. As principais observações foram:
 
